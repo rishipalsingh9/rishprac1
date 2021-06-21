@@ -26,6 +26,7 @@ urlpatterns = [
     path('learn/var/', cv.learn_var),
     path('learn/math/', cv.learn_math),
     path('learn/math/format', cv.learn_format),
+    path('learn/love/', fv.my_love),
 ]
 
 # option 2 to mention urls is as follows
